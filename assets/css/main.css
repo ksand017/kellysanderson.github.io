@@ -3846,3 +3846,8 @@ a:hover {
 #main > .main {
     border-top-color: #D8C9DC;
 }
+
+/* Header name and text */
+#header h1 {
+    color: #E6D8F5;
+}
