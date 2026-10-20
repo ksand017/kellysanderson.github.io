@@ -3791,12 +3791,21 @@ input, select, textarea {
    ========================================= */
 
 /* Background behind the header and footer */
-body {
+/* body {
     background-color: #29243F;
     background-image: linear-gradient(
         45deg,
         #51416B 15%,
         #29243F 85%
+    );
+} */
+/* Lighter Cosmic Twilight background */
+body {
+    background-color: #51445F;
+    background-image: linear-gradient(
+        45deg,
+        #756183 15%,
+        #51445F 85%
     );
 }
 
