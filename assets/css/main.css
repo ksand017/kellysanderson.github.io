@@ -3783,3 +3783,66 @@ input, select, textarea {
 			}
 
 		}
+
+
+
+/* =========================================
+   Cosmic Twilight Color Theme
+   ========================================= */
+
+/* Background behind the header and footer */
+body {
+    background-color: #29243F;
+    background-image: linear-gradient(
+        45deg,
+        #51416B 15%,
+        #29243F 85%
+    );
+}
+
+/* Main content panel */
+#main {
+    background-color: #F5F0E8;
+    color: #393347;
+}
+
+/* Navigation bar */
+#nav {
+    background-color: #EAE2EF;
+}
+
+/* Active navigation tab */
+#nav ul li a.active {
+    background-color: #F5F0E8;
+}
+
+/* Navigation links */
+#nav ul li a {
+    color: #55466C;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #393047;
+}
+
+/* Links */
+a {
+    color: #8066A6;
+}
+
+/* Link hover */
+a:hover {
+    color: #A18AC5;
+}
+
+/* Buttons */
+.button {
+    box-shadow: inset 0 0 0 1px #B5A1CA;
+    color: #70558F !important;
+}
+
+/* Section dividers */
+#main > .main {
+    border-top-color: #D8C9DC;
+}
